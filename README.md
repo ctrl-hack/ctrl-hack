@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ctrl-hack
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in PERN stack
 - 🌱 I’m currently learning Algorithms and Data structures
 - 📫 How to reach me camal1muradov@gmail.com
 
